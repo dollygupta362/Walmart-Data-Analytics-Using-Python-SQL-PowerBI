@@ -129,7 +129,7 @@ Engine: PostgreSQL
 
 👤 **Dolly Gupta**  
 📊 Aspiring Data Analyst | Python | SQL | Power BI  
-🌐 [LinkedIn](https://www.linkedin.com/in/dolly-gupta-3b54b8229) 
+🌐 [LinkedIn](https://www.linkedin.com/in/dolly-gupta-3b54b8229)           
 📬 **dollygupta362@gmail.com  **
 
 ---
